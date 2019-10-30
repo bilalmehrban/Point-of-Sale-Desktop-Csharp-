@@ -1,0 +1,101 @@
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\POS.exe
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\POS.pdb
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\Dapper.dll
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\Dapper.xml
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.About_Developer.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Catagories.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.Main.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Login.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Manage_Products.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Sales_Analytics.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Sales_Man.mainform.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Sales_Man.Return.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Sales_Man.Sale_Register.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Stock.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Suppliers.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Users.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.exe
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.pdb
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\POS.exe.config
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.exe
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.pdb
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\POS.exe
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\POS.pdb
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\Dapper.dll
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\Dapper.xml
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.About_Developer.resources
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Catagories.resources
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.Main.resources
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Login.resources
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Manage_Products.resources
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Sales_Analytics.resources
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Sales_Man.mainform.resources
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Sales_Man.Return.resources
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Sales_Man.Sale_Register.resources
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Stock.resources
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Suppliers.resources
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Users.resources
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Invoice_Details.resources
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+D:\POS\POS\bin\Debug\POS.exe.config
+D:\POS\POS\obj\Debug\POS.exe
+D:\POS\POS\obj\Debug\POS.pdb
+D:\POS\POS\bin\Debug\POS.exe
+D:\POS\POS\bin\Debug\POS.pdb
+D:\POS\POS\bin\Debug\Dapper.dll
+D:\POS\POS\bin\Debug\Dapper.xml
+D:\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+D:\POS\POS\obj\Debug\POS.Properties.Resources.resources
+D:\POS\POS\obj\Debug\POS.UI.About_Developer.resources
+D:\POS\POS\obj\Debug\POS.UI.Catagories.resources
+D:\POS\POS\obj\Debug\POS.Main.resources
+D:\POS\POS\obj\Debug\POS.UI.Invoice_Details.resources
+D:\POS\POS\obj\Debug\POS.UI.Login.resources
+D:\POS\POS\obj\Debug\POS.UI.Manage_Products.resources
+D:\POS\POS\obj\Debug\POS.UI.Sales_Analytics.resources
+D:\POS\POS\obj\Debug\POS.UI.Sales_Man.mainform.resources
+D:\POS\POS\obj\Debug\POS.UI.Sales_Man.Return.resources
+D:\POS\POS\obj\Debug\POS.UI.Sales_Man.Sale_Register.resources
+D:\POS\POS\obj\Debug\POS.UI.Stock.resources
+D:\POS\POS\obj\Debug\POS.UI.Suppliers.resources
+D:\POS\POS\obj\Debug\POS.UI.Users.resources
+D:\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+H:\POS\POS\bin\Debug\POS.exe.config
+H:\POS\POS\obj\Debug\POS.exe
+H:\POS\POS\obj\Debug\POS.pdb
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.UI.Invoice_Details.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+E:\Projects\Desktop C#\My Own\POS Updated\POS\bin\Debug\POS.exe.config
+E:\Projects\Desktop C#\My Own\POS Updated\POS\bin\Debug\POS.exe.manifest
+E:\Projects\Desktop C#\My Own\POS Updated\POS\bin\Debug\POS.application
+E:\Projects\Desktop C#\My Own\POS Updated\POS\bin\Debug\POS.exe
+E:\Projects\Desktop C#\My Own\POS Updated\POS\bin\Debug\POS.pdb
+E:\Projects\Desktop C#\My Own\POS Updated\POS\bin\Debug\Dapper.dll
+E:\Projects\Desktop C#\My Own\POS Updated\POS\bin\Debug\Dapper.xml
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.csprojAssemblyReference.cache
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.Properties.Resources.resources
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.UI.About_Developer.resources
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.UI.Catagories.resources
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.Main.resources
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.UI.Invoice_Details.resources
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.UI.Login.resources
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.UI.Manage_Products.resources
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.UI.Sales_Analytics.resources
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.UI.Sales_Man.mainform.resources
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.UI.Sales_Man.Return.resources
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.UI.Sales_Man.Sale_Register.resources
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.UI.Stock.resources
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.UI.Suppliers.resources
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.UI.Users.resources
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.csproj.GenerateResource.cache
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.exe.manifest
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.application
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.csproj.CopyComplete
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.exe
+E:\Projects\Desktop C#\My Own\POS Updated\POS\obj\Debug\POS.pdb

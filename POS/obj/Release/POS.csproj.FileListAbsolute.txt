@@ -1,0 +1,26 @@
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\bin\Release\POS.exe.config
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\bin\Release\POS.exe
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\bin\Release\POS.pdb
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\bin\Release\Dapper.dll
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\bin\Release\Dapper.xml
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.Properties.Resources.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.UI.About_Developer.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.UI.Catagories.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.Main.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.UI.Login.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.UI.Manage_Products.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.UI.Sales_Analytics.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.UI.Sales_Man.mainform.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.UI.Sales_Man.Return.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.UI.Sales_Man.Sale_Register.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.UI.Stock.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.UI.Suppliers.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.UI.Users.resources
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.csproj.GenerateResource.Cache
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.exe
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.pdb
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\bin\Release\POS.exe.config
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.exe
+C:\Users\786\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.pdb
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.csprojResolveAssemblyReference.cache
+C:\Users\Azhar Mir\Documents\Visual Studio 2015\Projects\POS\POS\obj\Release\POS.UI.Invoice_Details.resources
