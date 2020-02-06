@@ -23,6 +23,4 @@ Not accepting any contributions at the very movement.
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Nil
