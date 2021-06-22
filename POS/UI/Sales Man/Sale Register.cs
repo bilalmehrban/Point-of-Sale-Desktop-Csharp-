@@ -637,7 +637,7 @@ namespace POS.UI.Sales_Man
                     printer.PorportionalColumns = true;
                     printer.HeaderCellAlignment = StringAlignment.Near;
                     printer.Footer = "Grand Total: " + txtsubtotal.Text + " \r \r \r \r \r \r \r \r \r \r \r \r" + "Total Paid:" + txtpaidamount.Text + " \r \n" + "Thank You, for doing business with us. \n";
-                    //printer.PageText = "Developed By: \r \r \r Engr. Azhar Mir \r \r \r \r \r \r \r \r \r Mailing Contact: \r \r \r azharmir526@live.com \n";
+               
                     printer.FooterSpacing = 15;
                     printer.PrintDataGridView(dgvinvoice);
 
